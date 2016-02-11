@@ -3,6 +3,7 @@ body {
   background-image: url(../imgs/gallery1.jpg);
 }
 .container {
+  display: block;
   margin: auto;
 }
 header {
