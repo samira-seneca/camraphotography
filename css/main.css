@@ -4,6 +4,7 @@ body {
 }
 .container {
   display: block;
+  width: 960px;
   margin: auto;
 }
 header {
