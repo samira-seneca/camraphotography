@@ -93,3 +93,14 @@ ul.gallery img {
   border: 10px solid white;
   box-shadow: 0 0 10px black;
 }
+#contact_pic {
+  float: left;
+  margin-right: 20px;
+}
+#contact_pic img {
+  width: 400px;
+  height: auto;
+}
+footer {
+  clear: both;
+}
